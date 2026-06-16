@@ -1,0 +1,2 @@
+2026-06-16 21:14:47,768 - system - INFO - Loading local embedding model: sentence-transformers/all-MiniLM-L6-v2
+2026-06-16 21:14:59,872 - system - INFO - Local embedding model loaded successfully.
