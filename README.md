@@ -1,154 +1,224 @@
-🚀 BuildWise AI
-AI CTO Platform powered by Agentic AI
-BuildWise AI is an Agentic AI-powered software architecture and project planning platform that transforms software ideas into complete technical blueprints.
+# 🚀 BuildWise AI — AI CTO Platform Powered by Agentic AI
 
-Instead of relying on a single AI model, BuildWise AI uses a multi-agent architecture where specialized AI agents collaborate to analyze requirements, design systems, generate technical documentation, and provide engineering recommendations.
+BuildWise AI is an AI-powered Software Architecture and Project Planning Platform that transforms software ideas into complete technical blueprints.
 
-The platform acts as an AI CTO for developers, startups, product teams, and engineering organizations.
+Rather than relying on a single AI model, BuildWise AI utilizes a multi-agent architecture where specialized AI agents collaborate to analyze requirements, design scalable systems, generate technical documentation, and provide engineering recommendations.
 
-🎯 Vision
-Building software products requires expertise across multiple domains:
+The platform acts as a virtual AI CTO for startups, developers, product teams, and organizations looking to accelerate software planning and decision-making.
 
-Business Analysis
-Product Management
-Software Architecture
-Database Design
-API Development
-Security Engineering
-DevOps
-Technical Documentation
-BuildWise AI brings these capabilities together through Agentic AI to help teams move from idea to implementation faster and with greater confidence.
+---
 
-✨ Core Features
-🤖 Multi-Agent AI System
-BuildWise AI uses specialized agents that collaborate to generate comprehensive project plans.
+## 🎯 Vision
 
-Business Analyst Agent
-Requirement analysis
-Problem identification
-User persona generation
-Business insights
-Product Manager Agent
-Product Requirement Documents (PRDs)
-User stories
-Feature prioritization
-Sprint planning
-Solution Architect Agent
-System architecture generation
-Technology recommendations
-Scalability planning
-Infrastructure guidance
-Database Architect Agent
-Database schema design
-Relationship mapping
-Data modeling recommendations
-API Designer Agent
-REST API planning
-Endpoint generation
-Request/response structures
-API documentation
-Security Agent
-Security review
-Authentication recommendations
-Architecture risk analysis
-Judge Agent
-Output validation
-Consistency checks
-Quality assurance
-🧠 AI CTO Chat
+Building modern software products requires expertise across multiple domains:
+
+* Business Analysis
+* Product Management
+* Software Architecture
+* Database Design
+* API Development
+* Security Engineering
+* DevOps & Deployment
+* Technical Documentation
+
+BuildWise AI brings these capabilities together through Agentic AI, helping teams move from idea to implementation faster, smarter, and with greater confidence.
+
+---
+
+## ✨ Core Features
+
+### 🤖 Multi-Agent AI System
+
+BuildWise AI leverages specialized AI agents working together to generate comprehensive project plans and technical recommendations.
+
+#### Business Analyst Agent
+
+* Requirement Analysis
+* Problem Identification
+* User Persona Generation
+* Business Insights
+
+#### Product Manager Agent
+
+* Product Requirement Documents (PRDs)
+* User Stories
+* Feature Prioritization
+* Sprint Planning
+
+#### Solution Architect Agent
+
+* System Architecture Design
+* Technology Recommendations
+* Scalability Planning
+* Infrastructure Guidance
+
+#### Database Architect Agent
+
+* Database Schema Design
+* Relationship Mapping
+* Data Modeling Strategies
+
+#### API Designer Agent
+
+* REST API Planning
+* Endpoint Design
+* Request & Response Structures
+* API Documentation
+
+#### Security Agent
+
+* Security Reviews
+* Authentication Recommendations
+* Architecture Risk Analysis
+
+#### Judge Agent
+
+* Output Validation
+* Consistency Checks
+* Quality Assurance
+
+---
+
+## 🧠 AI CTO Assistant
+
 Interact with BuildWise AI as your virtual CTO.
 
-Example questions:
+### Example Questions
 
-How should I scale this application?
-Which database should I use?
-What architecture is best for my project?
-What security risks exist in this design?
-How should I deploy this system?
-📚 RAG-Powered Knowledge Base
-BuildWise AI leverages Retrieval-Augmented Generation (RAG) to provide context-aware and reliable responses.
+* How should I scale this application?
+* Which database is best for my use case?
+* What architecture should I choose?
+* What security risks exist in my design?
+* How should I deploy this system?
 
-Knowledge Sources
-System Design Documentation
-Software Architecture Patterns
-FastAPI Documentation
-PostgreSQL Documentation
-Engineering Best Practices
-Internal Knowledge Bases
-Capabilities
-Semantic Search
-Intelligent Retrieval
-Source-Aware Responses
-Context Enrichment
-Knowledge Expansion
-📄 Professional Report Generation
-Generate enterprise-grade PDF reports with structured documentation.
+---
 
-Report Sections
-Executive Summary
-Business Analysis
-Product Requirements
-User Personas
-User Stories
-System Architecture
-Database Design
-API Specifications
-Security Assessment
-Cost Estimation
-Deployment Strategy
-Implementation Roadmap
-Reports are designed for:
+## 📚 RAG-Powered Knowledge Base
 
-Founders
-Engineering Teams
-Product Managers
-Investors
-Clients
-🎨 Logo Studio
-AI-powered branding assistance for new software products.
+BuildWise AI integrates Retrieval-Augmented Generation (RAG) to provide context-aware and reliable responses.
 
-Features
-Logo Concept Generation
-Brand Identity Suggestions
-Typography Recommendations
-Color Palette Suggestions
-Logo Prompt Generation
-🖥️ UI Blueprint Generator
-Generate structured UI and UX planning documents.
+### Knowledge Sources
 
-Includes
-Screen Lists
-User Flows
-Dashboard Layouts
-Component Recommendations
-Wireframe Descriptions
-Design System Suggestions
-🏗️ Technology Stack
-Frontend
-Next.js 15
-TypeScript
-Tailwind CSS
-shadcn/ui
-Backend
-FastAPI
-Python
-Database
-PostgreSQL
-Authentication
-JWT Authentication
-Role-Based Access Control (RBAC)
-AI & Agent Framework
-LangGraph
-LangChain
-Gemini API
-OpenAI API
-RAG
-ChromaDB
-Hugging Face Embeddings
-Infrastructure
-Docker
-Docker Compose
-📂 Project Architecture
+* System Design Documentation
+* Software Architecture Patterns
+* FastAPI Documentation
+* PostgreSQL Documentation
+* Engineering Best Practices
+* Internal Knowledge Bases
+
+### Capabilities
+
+* Semantic Search
+* Intelligent Retrieval
+* Context-Aware Responses
+* Source-Based Recommendations
+* Knowledge Enrichment
+
+---
+
+## 📄 Professional Report Generation
+
+Generate enterprise-grade technical documentation and reports.
+
+### Generated Sections
+
+* Executive Summary
+* Business Analysis
+* Product Requirements
+* User Personas
+* User Stories
+* System Architecture
+* Database Design
+* API Specifications
+* Security Assessment
+* Cost Estimation
+* Deployment Strategy
+* Implementation Roadmap
+
+### Designed For
+
+* Startups
+* Engineering Teams
+* Product Managers
+* Investors
+* Clients
+
+---
+
+## 🎨 Logo Studio
+
+AI-powered branding assistance for software products.
+
+### Features
+
+* Logo Concept Generation
+* Brand Identity Suggestions
+* Typography Recommendations
+* Color Palette Suggestions
+* Logo Prompt Generation
+
+---
+
+## 🖥️ UI Blueprint Generator
+
+Generate structured UI/UX planning documents.
+
+### Includes
+
+* Screen Definitions
+* User Flows
+* Dashboard Layouts
+* Component Suggestions
+* Wireframe Descriptions
+* Design System Recommendations
+
+---
+
+# 🏗️ Technology Stack
+
+## Frontend
+
+* Next.js 15
+* TypeScript
+* Tailwind CSS
+* shadcn/ui
+
+## Backend
+
+* FastAPI
+* Python
+
+## Database
+
+* PostgreSQL
+
+## Authentication
+
+* JWT Authentication
+* Role-Based Access Control (RBAC)
+
+## AI & Agent Framework
+
+* LangGraph
+* LangChain
+* Gemini API
+* OpenAI API
+
+## RAG
+
+* ChromaDB
+* Hugging Face Embeddings
+
+## Infrastructure
+
+* Docker
+* Docker Compose
+
+---
+
+# 🏛️ System Architecture
+
+```text
 User
  │
  ▼
@@ -176,88 +246,137 @@ Vector Database
  │
  ▼
 Reports & Recommendations
-🔐 Authentication & Access Control
-User Features
-Register & Login
-Google Authentication
-Project Management
-AI CTO Chat
-Report Generation
-Logo Studio
-UI Blueprint Generation
-Admin Features
-User Management
-Project Monitoring
-Prompt Management
-Agent Monitoring
-System Logs
-Token Usage Analytics
-📈 Phase 1 Scope
-The first release focuses on building a stable and scalable foundation.
+```
 
-Included
-Authentication System
-Admin Dashboard
-User Dashboard
-Agentic Workflows
-RAG Integration
-PDF Report Generation
-Logo Studio
-UI Blueprint Generator
-Project Management
-AI CTO Chat
-🛣️ Roadmap
-Phase 2
-ML-Based Success Prediction
-Cost Prediction Engine
-Timeline Prediction
-Risk Analysis System
-Phase 3
-Team Recommendation Engine
-Real-Time Monitoring
-Advanced Analytics
-Architecture Comparison Engine
-Phase 4
-Enterprise Collaboration
-Multi-Tenant SaaS
-Team Workspaces
-Organization Management
-Getting Started
-Prerequisites
-Python 3.11+
-Node.js 18+ (with npm)
-Docker & Docker Compose
-Running Backend Locally
-Navigate to /backend:
+---
+
+# 🔐 Authentication & Access Control
+
+## User Features
+
+* Register & Login
+* Google Authentication
+* Project Management
+* AI CTO Chat
+* Report Generation
+* Logo Studio
+* UI Blueprint Generator
+
+## Admin Features
+
+* User Management
+* Project Monitoring
+* Prompt Management
+* Agent Monitoring
+* System Logs
+* Token Usage Analytics
+
+---
+
+# 📈 Phase 1 Scope
+
+The initial release focuses on building a scalable and production-ready foundation.
+
+### Included Features
+
+* Authentication System
+* Admin Dashboard
+* User Dashboard
+* Agentic Workflows
+* RAG Integration
+* PDF Report Generation
+* Logo Studio
+* UI Blueprint Generator
+* Project Management
+* AI CTO Chat
+
+---
+
+# 🛣️ Product Roadmap
+
+## Phase 2
+
+* ML-Based Success Prediction
+* Cost Prediction Engine
+* Timeline Prediction
+* Risk Analysis System
+
+## Phase 3
+
+* Team Recommendation Engine
+* Real-Time Monitoring
+* Advanced Analytics
+* Architecture Comparison Engine
+
+## Phase 4
+
+* Enterprise Collaboration
+* Multi-Tenant SaaS
+* Team Workspaces
+* Organization Management
+
+---
+
+# 🚀 Getting Started
+
+## Prerequisites
+
+* Python 3.11+
+* Node.js 18+
+* Docker & Docker Compose
+
+### Backend Setup
+
+```bash
 cd backend
-Create and activate a virtual environment:
+
 python -m venv venv
-source venv/bin/activate  # On Windows: .\venv\Scripts\activate
-Install dependencies:
+
+# Windows
+.\venv\Scripts\activate
+
+# Linux / macOS
+source venv/bin/activate
+
 pip install -r requirements.txt
-Copy .env.example to .env in the root and configure database credentials.
-Run the development server:
+
 uvicorn app.main:app --reload
-Running Frontend Locally
-Navigate to /frontend:
+```
+
+### Frontend Setup
+
+```bash
 cd frontend
-Install dependencies:
+
 npm install
-Run the development server:
+
 npm run dev
-Using Docker Compose
-Initialize the entire Postgres DB, FastAPI Backend, and Next.js Frontend stack from the root directory:
+```
 
+### Docker Setup
+
+```bash
 docker-compose up --build
-⚡ Why BuildWise AI?
-Most AI tools provide answers.
+```
 
-BuildWise AI provides decisions.
+---
 
-By combining Agentic AI, RAG, Architecture Intelligence, Product Planning, and Technical Documentation, BuildWise AI helps teams build software with greater clarity, confidence, and speed.
+# 🤝 Contributing
 
-🤝 Contributing
-Contributions, suggestions, and improvements are welcome.
+Contributions, feature requests, and improvements are welcome.
+
+Please create an issue or submit a pull request for discussion.
+
+---
+
+# 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 🚀 Build Better. Design Smarter. Scale Faster.
+
 
 Please create an issue or submit a pull request for discussion.
 
